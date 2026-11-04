@@ -4,6 +4,8 @@ VisualStudioVersion = 17.14.37710.0 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Step1_Triangle", "Step1_Triangle\Step1_Triangle.csproj", "{FC521FE2-E339-4A80-914C-64ADAE5D22C9}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Step2_Circle", "Step2_Circle\Step2_Circle.csproj", "{DCA7F16C-176C-4EC1-AF2D-77CFA9D44309}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -14,6 +16,10 @@ Global
 		{FC521FE2-E339-4A80-914C-64ADAE5D22C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC521FE2-E339-4A80-914C-64ADAE5D22C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC521FE2-E339-4A80-914C-64ADAE5D22C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCA7F16C-176C-4EC1-AF2D-77CFA9D44309}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCA7F16C-176C-4EC1-AF2D-77CFA9D44309}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCA7F16C-176C-4EC1-AF2D-77CFA9D44309}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCA7F16C-176C-4EC1-AF2D-77CFA9D44309}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
