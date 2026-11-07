@@ -6,6 +6,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Step1_Triangle", "Step1_Tri
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Step2_Circle", "Step2_Circle\Step2_Circle.csproj", "{DCA7F16C-176C-4EC1-AF2D-77CFA9D44309}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Step3_Animation2D", "Step3_Animation2D\Step3_Animation2D.csproj", "{27997B19-F2D1-4C1C-BBA8-C56493C83614}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,6 +22,10 @@ Global
 		{DCA7F16C-176C-4EC1-AF2D-77CFA9D44309}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DCA7F16C-176C-4EC1-AF2D-77CFA9D44309}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DCA7F16C-176C-4EC1-AF2D-77CFA9D44309}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27997B19-F2D1-4C1C-BBA8-C56493C83614}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27997B19-F2D1-4C1C-BBA8-C56493C83614}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27997B19-F2D1-4C1C-BBA8-C56493C83614}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27997B19-F2D1-4C1C-BBA8-C56493C83614}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
