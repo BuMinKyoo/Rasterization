@@ -8,6 +8,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Step2_Circle", "Step2_Circl
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Step3_Animation2D", "Step3_Animation2D\Step3_Animation2D.csproj", "{27997B19-F2D1-4C1C-BBA8-C56493C83614}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Step4_DepthBuffer", "Step4_DepthBuffer\Step4_DepthBuffer.csproj", "{7E72C23D-E4C2-4260-913A-4FC18E52CF73}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Step5_PerspectiveProjection", "Step5_PerspectiveProjection\Step5_PerspectiveProjection.csproj", "{814C53F0-0214-4ECB-8A41-A96A05113A83}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -26,6 +30,14 @@ Global
 		{27997B19-F2D1-4C1C-BBA8-C56493C83614}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{27997B19-F2D1-4C1C-BBA8-C56493C83614}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{27997B19-F2D1-4C1C-BBA8-C56493C83614}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E72C23D-E4C2-4260-913A-4FC18E52CF73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E72C23D-E4C2-4260-913A-4FC18E52CF73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E72C23D-E4C2-4260-913A-4FC18E52CF73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E72C23D-E4C2-4260-913A-4FC18E52CF73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{814C53F0-0214-4ECB-8A41-A96A05113A83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{814C53F0-0214-4ECB-8A41-A96A05113A83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{814C53F0-0214-4ECB-8A41-A96A05113A83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{814C53F0-0214-4ECB-8A41-A96A05113A83}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
